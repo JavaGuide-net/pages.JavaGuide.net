@@ -1,0 +1,19 @@
+{
+  "name": "JavaGuide",
+  "short_name": "JavaGuide",
+  "description": "JavaGuide | 软件方法 ｜始于极客 不止极客",
+  "icons": [{
+    "src": "https://javaguide.net/icon-192.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  }, {
+    "src": "https://javaguide.net/icon-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "background_color": "#fff",
+  "theme_color": "#000",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
